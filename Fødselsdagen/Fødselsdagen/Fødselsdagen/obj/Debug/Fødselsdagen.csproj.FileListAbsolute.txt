@@ -1,0 +1,8 @@
+C:\Users\zbcrabg\source\repos\Fødselsdagen\Fødselsdagen\bin\Debug\Fødselsdagen.exe.config
+C:\Users\zbcrabg\source\repos\Fødselsdagen\Fødselsdagen\bin\Debug\Fødselsdagen.exe
+C:\Users\zbcrabg\source\repos\Fødselsdagen\Fødselsdagen\bin\Debug\Fødselsdagen.pdb
+C:\Users\zbcrabg\source\repos\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\source\repos\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.exe
+C:\Users\zbcrabg\source\repos\Fødselsdagen\Fødselsdagen\obj\Debug\Fødselsdagen.pdb

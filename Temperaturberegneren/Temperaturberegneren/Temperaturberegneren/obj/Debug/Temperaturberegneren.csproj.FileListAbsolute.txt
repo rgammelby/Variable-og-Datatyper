@@ -1,0 +1,8 @@
+C:\Users\zbcrabg\source\repos\Temperaturberegneren\Temperaturberegneren\bin\Debug\Temperaturberegneren.exe.config
+C:\Users\zbcrabg\source\repos\Temperaturberegneren\Temperaturberegneren\bin\Debug\Temperaturberegneren.exe
+C:\Users\zbcrabg\source\repos\Temperaturberegneren\Temperaturberegneren\bin\Debug\Temperaturberegneren.pdb
+C:\Users\zbcrabg\source\repos\Temperaturberegneren\Temperaturberegneren\obj\Debug\Temperaturberegneren.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\Temperaturberegneren\Temperaturberegneren\obj\Debug\Temperaturberegneren.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\source\repos\Temperaturberegneren\Temperaturberegneren\obj\Debug\Temperaturberegneren.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\Temperaturberegneren\Temperaturberegneren\obj\Debug\Temperaturberegneren.exe
+C:\Users\zbcrabg\source\repos\Temperaturberegneren\Temperaturberegneren\obj\Debug\Temperaturberegneren.pdb

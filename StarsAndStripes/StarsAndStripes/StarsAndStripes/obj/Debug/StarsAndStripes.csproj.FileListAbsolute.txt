@@ -1,0 +1,8 @@
+C:\Users\zbcrabg\source\repos\StarsAndStripes\StarsAndStripes\bin\Debug\StarsAndStripes.exe.config
+C:\Users\zbcrabg\source\repos\StarsAndStripes\StarsAndStripes\bin\Debug\StarsAndStripes.exe
+C:\Users\zbcrabg\source\repos\StarsAndStripes\StarsAndStripes\bin\Debug\StarsAndStripes.pdb
+C:\Users\zbcrabg\source\repos\StarsAndStripes\StarsAndStripes\obj\Debug\StarsAndStripes.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\StarsAndStripes\StarsAndStripes\obj\Debug\StarsAndStripes.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\source\repos\StarsAndStripes\StarsAndStripes\obj\Debug\StarsAndStripes.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\StarsAndStripes\StarsAndStripes\obj\Debug\StarsAndStripes.exe
+C:\Users\zbcrabg\source\repos\StarsAndStripes\StarsAndStripes\obj\Debug\StarsAndStripes.pdb
