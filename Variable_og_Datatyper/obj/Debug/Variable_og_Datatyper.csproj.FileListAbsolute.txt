@@ -1,0 +1,8 @@
+C:\Users\zbcrabg\source\repos\Variable_og_Datatyper\Variable_og_Datatyper\bin\Debug\Variable_og_Datatyper.exe.config
+C:\Users\zbcrabg\source\repos\Variable_og_Datatyper\Variable_og_Datatyper\bin\Debug\Variable_og_Datatyper.exe
+C:\Users\zbcrabg\source\repos\Variable_og_Datatyper\Variable_og_Datatyper\bin\Debug\Variable_og_Datatyper.pdb
+C:\Users\zbcrabg\source\repos\Variable_og_Datatyper\Variable_og_Datatyper\obj\Debug\Variable_og_Datatyper.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\Variable_og_Datatyper\Variable_og_Datatyper\obj\Debug\Variable_og_Datatyper.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\source\repos\Variable_og_Datatyper\Variable_og_Datatyper\obj\Debug\Variable_og_Datatyper.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\Variable_og_Datatyper\Variable_og_Datatyper\obj\Debug\Variable_og_Datatyper.exe
+C:\Users\zbcrabg\source\repos\Variable_og_Datatyper\Variable_og_Datatyper\obj\Debug\Variable_og_Datatyper.pdb
