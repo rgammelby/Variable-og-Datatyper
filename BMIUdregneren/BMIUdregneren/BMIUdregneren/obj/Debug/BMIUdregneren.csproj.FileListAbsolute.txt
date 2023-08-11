@@ -1,0 +1,8 @@
+C:\Users\zbcrabg\source\repos\BMIUdregneren\BMIUdregneren\bin\Debug\BMIUdregneren.exe.config
+C:\Users\zbcrabg\source\repos\BMIUdregneren\BMIUdregneren\bin\Debug\BMIUdregneren.exe
+C:\Users\zbcrabg\source\repos\BMIUdregneren\BMIUdregneren\bin\Debug\BMIUdregneren.pdb
+C:\Users\zbcrabg\source\repos\BMIUdregneren\BMIUdregneren\obj\Debug\BMIUdregneren.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\BMIUdregneren\BMIUdregneren\obj\Debug\BMIUdregneren.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\source\repos\BMIUdregneren\BMIUdregneren\obj\Debug\BMIUdregneren.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\BMIUdregneren\BMIUdregneren\obj\Debug\BMIUdregneren.exe
+C:\Users\zbcrabg\source\repos\BMIUdregneren\BMIUdregneren\obj\Debug\BMIUdregneren.pdb

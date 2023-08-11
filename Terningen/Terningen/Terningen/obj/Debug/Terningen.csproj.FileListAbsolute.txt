@@ -1,0 +1,8 @@
+C:\Users\zbcrabg\source\repos\Terningen\Terningen\bin\Debug\Terningen.exe.config
+C:\Users\zbcrabg\source\repos\Terningen\Terningen\bin\Debug\Terningen.exe
+C:\Users\zbcrabg\source\repos\Terningen\Terningen\bin\Debug\Terningen.pdb
+C:\Users\zbcrabg\source\repos\Terningen\Terningen\obj\Debug\Terningen.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\Terningen\Terningen\obj\Debug\Terningen.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\source\repos\Terningen\Terningen\obj\Debug\Terningen.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\Terningen\Terningen\obj\Debug\Terningen.exe
+C:\Users\zbcrabg\source\repos\Terningen\Terningen\obj\Debug\Terningen.pdb
