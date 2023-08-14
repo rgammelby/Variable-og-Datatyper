@@ -1,0 +1,8 @@
+C:\Users\rabga\source\repos\Nim\Nim\bin\Debug\Nim.exe.config
+C:\Users\rabga\source\repos\Nim\Nim\bin\Debug\Nim.exe
+C:\Users\rabga\source\repos\Nim\Nim\bin\Debug\Nim.pdb
+C:\Users\rabga\source\repos\Nim\Nim\obj\Debug\Nim.csproj.AssemblyReference.cache
+C:\Users\rabga\source\repos\Nim\Nim\obj\Debug\Nim.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabga\source\repos\Nim\Nim\obj\Debug\Nim.csproj.CoreCompileInputs.cache
+C:\Users\rabga\source\repos\Nim\Nim\obj\Debug\Nim.exe
+C:\Users\rabga\source\repos\Nim\Nim\obj\Debug\Nim.pdb

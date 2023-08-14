@@ -1,0 +1,8 @@
+C:\Users\rabga\source\repos\JuletræetMedSinPynt\JuletræetMedSinPynt\bin\Debug\JuletræetMedSinPynt.exe.config
+C:\Users\rabga\source\repos\JuletræetMedSinPynt\JuletræetMedSinPynt\bin\Debug\JuletræetMedSinPynt.exe
+C:\Users\rabga\source\repos\JuletræetMedSinPynt\JuletræetMedSinPynt\bin\Debug\JuletræetMedSinPynt.pdb
+C:\Users\rabga\source\repos\JuletræetMedSinPynt\JuletræetMedSinPynt\obj\Debug\JuletræetMedSinPynt.csproj.AssemblyReference.cache
+C:\Users\rabga\source\repos\JuletræetMedSinPynt\JuletræetMedSinPynt\obj\Debug\JuletræetMedSinPynt.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabga\source\repos\JuletræetMedSinPynt\JuletræetMedSinPynt\obj\Debug\JuletræetMedSinPynt.csproj.CoreCompileInputs.cache
+C:\Users\rabga\source\repos\JuletræetMedSinPynt\JuletræetMedSinPynt\obj\Debug\JuletræetMedSinPynt.exe
+C:\Users\rabga\source\repos\JuletræetMedSinPynt\JuletræetMedSinPynt\obj\Debug\JuletræetMedSinPynt.pdb

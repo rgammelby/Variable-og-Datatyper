@@ -1,0 +1,8 @@
+C:\Users\rabga\source\repos\HeldOgLotto\HeldOgLotto\bin\Debug\HeldOgLotto.exe.config
+C:\Users\rabga\source\repos\HeldOgLotto\HeldOgLotto\bin\Debug\HeldOgLotto.exe
+C:\Users\rabga\source\repos\HeldOgLotto\HeldOgLotto\bin\Debug\HeldOgLotto.pdb
+C:\Users\rabga\source\repos\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.csproj.AssemblyReference.cache
+C:\Users\rabga\source\repos\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabga\source\repos\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.csproj.CoreCompileInputs.cache
+C:\Users\rabga\source\repos\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.exe
+C:\Users\rabga\source\repos\HeldOgLotto\HeldOgLotto\obj\Debug\HeldOgLotto.pdb
