@@ -10,65 +10,88 @@ namespace MozartsValsGenerator
     {
         static void Main(string[] args)
         {
-            // vals-generator
-            // minuette x & y values
-            var mx = 12;
-            var my = 17;
+            // minuette x & y values, and minuette 2d-array declaration
+            var mx = 16;
+            var my = 11;
 
-            int[,] combo = new int[my, mx];
+            int[,] minuette = new int[mx, my];
 
-            Random xr = new Random();
-            Random yr = new Random();
-            Random all = new Random();
+            // populates 2d array with numbers 1-176 (sequential, because i couldn't be bothered to enter the values manually)
+            var populate = 1;
 
-            var mxr = xr.Next(2, 12);
-            var myr = yr.Next(1, 16);
-            var add = yr.Next(2, 176);
-
-            // contains all the numbers from 2 to 176
-            int[] alla = new int[176];
-            for (int i = 0; i < alla.Length; i++)
+            for (int i = 0; i < mx; i++)
             {
-                alla[i] = i + 1;
-            }
-            /*
-            Console.WriteLine($"alla: \n");
-            foreach (int i in alla)
-            {
-                Console.WriteLine(i);
-            }
-
-            Console.ReadLine();*/
-            /*
-            for (int i = 0; i < my - 1; i++)
-            {
-                for (int j = 0; j < mx - 1; j++)
+                for (int j = 0; j < my; j++)
                 {
-                    combo[i, j] = alla[(i + 2) * (j + 2) - 2];
-                }
-            }*/
-            
-            for (int i = 0; i < my; i++)
-            {
-                for (int j = 0; j < mx; j++)
-                {
-                    
-                    Console.SetCursorPosition(i * 5, j);
-                    Console.WriteLine(i * j);
-                    //Console.Write(alla[i]);
+                    minuette[i, j] = populate;
+                    populate++;
                 }
             }
-            Console.ReadLine();
 
+            // sound file locator
+            // for each run (of 16), the sum of the dice indicate the y-value, indicating which # sound to use
 
+            // dice generation
+            Random mxRandom = new Random();
+            Random myRandom = new Random();
 
-            Console.WriteLine($"combo: \n");
-            foreach (int i in combo)
+            // dice sum
+            var minuetteSum = mxRandom.Next(1, 7) + myRandom.Next(1, 7);
+            int minuetteWav;
+
+            // TRIO
+            // same exact process, could've been a method accepting parameters int x, int y and int[,] mdArray
+            var tx = 16;
+            var ty = 6;
+
+            int[,] trio = new int[tx, ty];
+
+            populate = 1;
+
+            for (int i = 0; i < tx; i++)
             {
-                Console.WriteLine(i);
+                for (int j = 0; j < ty; j++)
+                {
+                    trio[i, j] = populate;
+                    populate++;
+                }
             }
 
-            Console.ReadLine();
+            // single die
+            Random tRandom = new Random();
+
+            var trioSum = tRandom.Next(1, 7);
+            int trioWav;
+
+            // array consolidation
+            string[] completeMusic = new string[mx + tx];
+
+            // reads minuette and trio into the consolidated complete "piece"
+            for (int i = 0; i < mx - 1; i++)
+            {
+                minuetteWav = minuette[i, minuetteSum];
+                completeMusic[i] = @"C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\Sound files\Wave\M"
+                + minuetteWav + ".wav";
+            }
+
+            for (int i = tx; i < tx; i++)
+            {
+                trioWav = trio[i, trioSum];
+                completeMusic[i] = @"C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\Sound files\Wave\M"
+                + trioWav + ".wav";
+            }
+
+            // media player 
+
+            System.Media.SoundPlayer sp = new System.Media.SoundPlayer();
+
+            // plays the sound corresponding to each string in completeMusic; each file selected randomly
+            foreach (string s in completeMusic)
+            {
+                sp.SoundLocation = s;
+                sp.Load();
+                sp.PlaySync();
+            }
         }
     }
 }

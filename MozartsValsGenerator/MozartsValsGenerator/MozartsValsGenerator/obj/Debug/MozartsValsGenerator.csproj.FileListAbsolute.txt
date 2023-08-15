@@ -6,3 +6,11 @@ C:\Users\rabga\source\repos\MozartsValsGenerator\MozartsValsGenerator\obj\Debug\
 C:\Users\rabga\source\repos\MozartsValsGenerator\MozartsValsGenerator\obj\Debug\MozartsValsGenerator.csproj.CoreCompileInputs.cache
 C:\Users\rabga\source\repos\MozartsValsGenerator\MozartsValsGenerator\obj\Debug\MozartsValsGenerator.exe
 C:\Users\rabga\source\repos\MozartsValsGenerator\MozartsValsGenerator\obj\Debug\MozartsValsGenerator.pdb
+C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\MozartsValsGenerator\MozartsValsGenerator\bin\Debug\MozartsValsGenerator.exe.config
+C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\MozartsValsGenerator\MozartsValsGenerator\bin\Debug\MozartsValsGenerator.exe
+C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\MozartsValsGenerator\MozartsValsGenerator\bin\Debug\MozartsValsGenerator.pdb
+C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\MozartsValsGenerator\MozartsValsGenerator\obj\Debug\MozartsValsGenerator.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\MozartsValsGenerator\MozartsValsGenerator\obj\Debug\MozartsValsGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\MozartsValsGenerator\MozartsValsGenerator\obj\Debug\MozartsValsGenerator.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\MozartsValsGenerator\MozartsValsGenerator\obj\Debug\MozartsValsGenerator.exe
+C:\Users\zbcrabg\Github Integration\programming-basics\MozartsValsGenerator\MozartsValsGenerator\MozartsValsGenerator\obj\Debug\MozartsValsGenerator.pdb
