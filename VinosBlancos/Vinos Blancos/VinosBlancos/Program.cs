@@ -47,9 +47,9 @@ namespace VinosBlancos
         // print stats
         static void UIDisplayStats(int[] stars)
         {
-            var y = 4;
+            var y = 5;
 
-            Console.WriteLine("Stats: ");
+            Console.WriteLine("\nGraph: ");
             for (int i = 0; i < stars.Length; i++)
             {
                 Console.SetCursorPosition(0, y + i);
@@ -78,43 +78,42 @@ namespace VinosBlancos
             // displays graph
             UIDisplayStats(stars);
 
-            Console.WriteLine("Before sort: ");
-            for (int i = 0; i <  wine.Length / 2; i++)
+            SortArray(wine);
+        }
+
+        static void SortArray(int[,] wine)
+        {
+            Console.WriteLine("\n\nBefore sort: \n");
+            for (int i = 0; i < wine.Length / 2; i++)
             {
                 Console.WriteLine(wine[i, 0]);
             }
 
             int[,] temp = new int[1, 2];
-            var stop = 0;
+            bool sorted = true;
 
-            while (true)
+            for (int n = 0; n <= (wine.Length / 2) && sorted; n++)
             {
+                sorted = false;
                 for (int i = 0; i < (wine.Length / 2) - 1; i++)
                 {
                     // if n entry is less than n + 1 entry
                     if (wine[i, 0] < wine[i + 1, 0])
                     {
-                        temp[0,0] = wine[i + 1, 0];  // n + 1 is stored in temp
+                        temp[0, 0] = wine[i + 1, 0];  // n + 1 is stored in temp
                         wine[i + 1, 0] = wine[i, 0];  // n entry is moved to n + 1's place
                         wine[i, 0] = temp[0, 0];  // n entry is replaced by n + 1
-                    }
-                    else if (wine[i, 0] > wine[i + 1, 0])
-                    {
-                        stop += 1;
+                        sorted = true;
                     }
                 }
-
-                if (stop == 5)
-                    break;
             }
 
-            Console.WriteLine("After sort: ");
+            Console.WriteLine("\nAfter sort: \n");
             for (int i = 0; i < wine.Length / 2; i++)
             {
                 Console.WriteLine(wine[i, 0]);
             }
             Console.ReadLine();
-
 
         }
 

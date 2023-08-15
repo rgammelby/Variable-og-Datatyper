@@ -6,3 +6,11 @@ C:\Users\zbcrabg\Github Integration\programming-basics\VinosBlancos\Vinos Blanco
 C:\Users\zbcrabg\Github Integration\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\obj\Debug\VinosBlancos.csproj.CoreCompileInputs.cache
 C:\Users\zbcrabg\Github Integration\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\obj\Debug\VinosBlancos.exe
 C:\Users\zbcrabg\Github Integration\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\obj\Debug\VinosBlancos.pdb
+C:\Users\rabga\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\bin\Debug\VinosBlancos.exe.config
+C:\Users\rabga\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\bin\Debug\VinosBlancos.exe
+C:\Users\rabga\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\bin\Debug\VinosBlancos.pdb
+C:\Users\rabga\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\obj\Debug\VinosBlancos.csproj.AssemblyReference.cache
+C:\Users\rabga\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\obj\Debug\VinosBlancos.csproj.SuggestedBindingRedirects.cache
+C:\Users\rabga\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\obj\Debug\VinosBlancos.csproj.CoreCompileInputs.cache
+C:\Users\rabga\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\obj\Debug\VinosBlancos.exe
+C:\Users\rabga\programming-basics\VinosBlancos\Vinos Blancos\VinosBlancos\obj\Debug\VinosBlancos.pdb
