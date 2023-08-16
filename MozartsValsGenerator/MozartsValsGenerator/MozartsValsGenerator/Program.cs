@@ -81,8 +81,7 @@ namespace MozartsValsGenerator
                 + trioWav + ".wav";
             }
 
-            // media player 
-
+            // media player
             System.Media.SoundPlayer sp = new System.Media.SoundPlayer();
 
             // plays the sound corresponding to each string in completeMusic; each file selected randomly

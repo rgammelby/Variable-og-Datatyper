@@ -1,0 +1,8 @@
+C:\Users\zbcrabg\source\repos\Scrabble\Scrabble\bin\Debug\Scrabble.exe.config
+C:\Users\zbcrabg\source\repos\Scrabble\Scrabble\bin\Debug\Scrabble.exe
+C:\Users\zbcrabg\source\repos\Scrabble\Scrabble\bin\Debug\Scrabble.pdb
+C:\Users\zbcrabg\source\repos\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.AssemblyReference.cache
+C:\Users\zbcrabg\source\repos\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.SuggestedBindingRedirects.cache
+C:\Users\zbcrabg\source\repos\Scrabble\Scrabble\obj\Debug\Scrabble.csproj.CoreCompileInputs.cache
+C:\Users\zbcrabg\source\repos\Scrabble\Scrabble\obj\Debug\Scrabble.exe
+C:\Users\zbcrabg\source\repos\Scrabble\Scrabble\obj\Debug\Scrabble.pdb
