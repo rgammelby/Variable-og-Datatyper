@@ -29,29 +29,36 @@ namespace PasswordValidatorV2
                 bool legalInput = InputValidator(password);
 
                 if (legalInput)
+                {
                     validity = PasswordValidator(password);
+                    var error = ErrorMessage();
 
-                var error = ErrorMessage();
-
-                if (validity == 0)
+                    if (validity == 0)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("\nYour password is NOT valid.");
+                        Console.WriteLine(error);
+                    }
+                    else if (validity == 1)
+                    {
+                        Console.ForegroundColor = ConsoleColor.DarkYellow;
+                        Console.WriteLine("\nYour password is valid, but weak.");
+                        Console.WriteLine(error);
+                    }
+                    else if (validity == 2)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Green;
+                        Console.WriteLine("\nCongratulations. Your password is valid!");
+                    }
+                }
+                else
                 {
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Your password is NOT valid.");
-                    Console.WriteLine(error);
-                }
-                else if (validity == 1)
-                {
-                    Console.ForegroundColor = ConsoleColor.DarkYellow;
-                    Console.WriteLine("Your password is valid, but weak.");
-                    Console.WriteLine(error);
-                }
-                else if (validity == 2)
-                {
-                    Console.ForegroundColor = ConsoleColor.Green;
-                    Console.WriteLine("Congratulations. Your password is valid!");
-                }
+                    Console.WriteLine("Error code: 0. The password cannot be empty. ");
+                }                
 
                 Console.ResetColor();
+                Console.WriteLine("\nPress any key to test another password.\nPress 'Escape' to quit.");
 
                 var selection = Console.ReadKey(true).Key;
 
@@ -74,14 +81,14 @@ namespace PasswordValidatorV2
         // welcome and rules introduction
         static void Introduction()
         {
-            Console.WriteLine("Welcome to the password validator.\n\nThese are the rules for a valid password:\n\nThe password:\n\n" +
+            Console.WriteLine("Welcome to the password validator.\n\nThese are the rules for a valid password:\n\nThe password: \n\n" +
                 "* Is more than 12, and fewer than 64 characters in length.\n" +
                 "* Contains at least one (1) special character.\n" +
                 "* Contains both upper and lower case letters.\n" +
                 "* Contains a mix of numbers and letters.\n\n" +
-                $"In some cases, your password will be valid, but considered weak. This is the case if your password\n" +
-                "* Contains 4 or more repeated characters (eg. BBBB)\n" +
-                "* Contains 4 or more numbers in sequence (eg. 1234, 4567)\n");
+                $"In some cases, your password will be valid, but considered weak. This is the case if your password: \n" +
+                "* Contains 4 or more repeated characters (eg. BBBB) \n" +
+                "* Contains 4 or more numbers in sequence (eg. 1234, 4567) \n");
 
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine("A strong and valid password. ");
